@@ -1,0 +1,8 @@
+url: https://github.com/SiriusWJ/dsh-dshomepage-skin
+name: SiriusWJ/dsh-dshomepage-skin
+category: theme
+description:
+  en: 'DSH skin plugin for the 0.2.x desktop app and dsh web (>=0.2.2-rc.1 <0.3.0), ported from dsh-homepage-skin with desktop shell support, WebGL fluid light, a dot grid and a point-cloud whale; follows dark/light appearance and activates on install.'
+  zh: '适配 DSH 桌面端与 dsh web（>=0.2.2-rc.1 <0.3.0）的皮肤插件，基于 dsh-homepage-skin 移植，提供桌面外壳适配、WebGL 流体光效、点线网格和点云鲸鱼，跟随深浅色外观，安装即生效。'
+icon: https://raw.githubusercontent.com/SiriusWJ/dsh-dshomepage-skin/v0.1.12/icon.png
+tarball: https://github.com/SiriusWJ/dsh-dshomepage-skin/releases/download/v0.1.12/dsh-dshomepage-skin-0.1.12.tgz
